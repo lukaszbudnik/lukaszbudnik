@@ -8,7 +8,7 @@ I specialise in distributed systems and cloud computing. I've been working with 
 
 🌱 I’m currently learning Kubernetes and Go
 
-💞️ Let's collaborate
+🤝 Let's collaborate
 
 I’m looking to collaborate on the following projects:
 
