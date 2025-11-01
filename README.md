@@ -6,10 +6,11 @@
 
 🤝 Let's collaborate! I’m looking to collaborate on the following projects:
 
-- [lukaszbudnik/roxdb](https://github.com/lukaszbudnik/roxdb) - DynamoDB-like implementation on RocksDB over gRPC.
 - [lukaszbudnik/migrator](https://github.com/lukaszbudnik/migrator) - Super fast and lightweight DB migration & evolution tool written in Go.
 - [lukaszbudnik/yosoy](https://github.com/lukaszbudnik/yosoy) - yosoy is a HTTP service for stubbing and prototyping distributed applications.
 - [lukaszbudnik/keycloak-kubernetes](https://github.com/lukaszbudnik/keycloak-kubernetes) - Keycloak cluster deployed to Kubernetes.
+- [lukaszbudnik/pintor](https://github.com/lukaszbudnik/pintor) - A robust Java implementation of a Write Ahead Log designed for ensuring durability and consistency.
+- [lukaszbudnik/roxdb](https://github.com/lukaszbudnik/roxdb) - DynamoDB-like implementation on RocksDB over gRPC.
 - [lukaszbudnik/haproxy-auth-gateway](https://github.com/lukaszbudnik/haproxy-auth-gateway) - Authentication and authorization gateway for cloud native apps.
 
 
